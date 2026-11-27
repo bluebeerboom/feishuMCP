@@ -1,0 +1,20 @@
+{
+  "contract_dev_log": {
+    "title": "合同管理系统 开发日志",
+    "resource_type": "bitable",
+    "node_token": "填写 Wiki 节点 token",
+    "wiki_url": "填写包含 table=tbl... 的 Wiki 表格链接",
+    "source_obj_type": "sheet 或 bitable",
+    "source_spreadsheet_token": "如果 Wiki 节点是 sheet，则填写 obj_token",
+    "app_token": "填写 Wiki 节点解析得到的 obj_token",
+    "table_id": "tbl...",
+    "view_id": "vew..."
+  },
+  "ordinary_sheet": {
+    "title": "普通电子表格",
+    "resource_type": "sheet",
+    "spreadsheet_token": "填写 spreadsheet token",
+    "sheet_id": "填写 sheet id",
+    "default_range": "A1:Z1000"
+  }
+}
